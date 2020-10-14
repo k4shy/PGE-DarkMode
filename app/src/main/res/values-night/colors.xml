@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--color.xml(night)-->
+    <color name="bgcolor">#000000</color>
+    <color name="primary">#ffffff</color>
+    <color name="secondary">#ffee00</color>
+    <color name="highlight">#800080</color>
+</resources>
